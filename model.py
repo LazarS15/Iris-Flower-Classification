@@ -112,4 +112,3 @@ handles, labels = scatter.legend_elements()
 plt.legend(handles, labels)
 
 plt.show()
-
